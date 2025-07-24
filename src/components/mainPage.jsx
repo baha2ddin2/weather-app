@@ -156,5 +156,6 @@ export default function LocationComponent() {
         </Paper>
       </Box>
     </>
+    
   );
 }
