@@ -19,7 +19,7 @@ A simple weather application built with React and Material UI. It fetches real-t
 
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone git https://github.com/baha2ddin2/weather-app.git
    cd weather-app
    ```
 
